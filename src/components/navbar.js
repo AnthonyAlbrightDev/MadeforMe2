@@ -48,11 +48,6 @@ const Navbar = (props) => {
                   <a href="#testimonials" className="thq-link thq-body-small">{props.link4}</a>
                   <a href="#contact" className="thq-link thq-body-small">{props.link5}</a>
                 </nav>
-          </div>
-          <div className="navbar-buttons2">
-            <button className="thq-button-filled">Login</button>
-            <button className="thq-button-outline">Register</button>
-          </div>
         </div>
       </header>
     </header>
