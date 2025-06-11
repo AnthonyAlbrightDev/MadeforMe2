@@ -48,6 +48,7 @@ const Navbar = (props) => {
                   <a href="#testimonials" className="thq-link thq-body-small">{props.link4}</a>
                   <a href="#contact" className="thq-link thq-body-small">{props.link5}</a>
                 </nav>
+                  </div>
         </div>
       </header>
     </header>
