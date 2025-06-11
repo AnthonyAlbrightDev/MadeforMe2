@@ -203,7 +203,7 @@ Hero.defaultProps = {
     '/assets/WoodenBoard.jpg',
   image11Alt: 'Hero Image',
   image8Src:
-    '/assets/signs.jpg',
+    '/assets/Signs.jpg',
   image5Src:
     '/assets/Van.jpg',
   image4Src:
