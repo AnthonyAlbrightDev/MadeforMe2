@@ -129,7 +129,7 @@ Testimonial.defaultProps = {
     'As a maker, I feel MadeforMe will provide me with exciting opportunities to showcase my skills and connect with clients who appreciate handmade items.',
   author2Name: 'Mia R.',
   author4Position: 'Woodworker',
-  author4Name: 'David R.',
+  author4Name: 'Kelly T.',
   author4Src:
     'https://images.unsplash.com/photo-1551848994-cf79721b1faf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0OTUwMjExMXw&ixlib=rb-4.1.0&q=80&w=1080',
   author1Alt: 'Image of Sara Johnson',
