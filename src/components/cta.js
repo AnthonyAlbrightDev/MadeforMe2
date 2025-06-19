@@ -29,7 +29,7 @@ const CTA = (props) => (
 CTA.defaultProps = {
   heading1: 'Get Started with MadeforMe',
   content1:
-    'Wether you are a maker or buyer, we would love for you to join our community. Fill out the form to get started as soon as the MadeforMe launches.',
+    'Whether you are a maker or buyer, we would love for you to join our community. Fill out the form to get started as soon as the MadeforMe launches.',
   action1: 'Join Waitlist',
 }
 
